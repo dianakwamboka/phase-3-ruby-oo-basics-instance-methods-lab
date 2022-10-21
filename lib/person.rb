@@ -1,5 +1,5 @@
 class Person 
-    def talk 
+    def talk #responds hello world
         puts "Hello World!"
     end 
 
